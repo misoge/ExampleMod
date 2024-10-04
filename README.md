@@ -1,0 +1,1 @@
+This repository is example project for Misoge modding framework.
